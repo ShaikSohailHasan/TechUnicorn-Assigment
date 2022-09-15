@@ -1,3 +1,5 @@
+***Create a ReactJS or React Typescript based E-commerce app***
+
 Clone the Repo -> git clone URL
 
 then in terminal -> npm i
